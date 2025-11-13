@@ -33,3 +33,10 @@ B.Tech CSE (AI & ML) | Aspiring AI/ML Engineer | Java, Python, HTML, CSS | Deep 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakshitrajvit&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</div> 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
