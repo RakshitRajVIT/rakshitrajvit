@@ -30,7 +30,7 @@ B.Tech CSE (AI & ML) | Aspiring AI/ML Engineer | Java, Python, HTML, CSS | Deep 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakshitrajvit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rakshitrajvit&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rakshitrajvit&theme=dark&hide_border=false)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitrajvit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align="center"">
   <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitrajvit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align="center") -->
