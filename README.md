@@ -1,6 +1,9 @@
 <img align="center" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="coding.png">
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rakshit%20Raj%20&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" width="100%"/>
+</div> -->
 <h1 align="center">Hi👋,  I am Rakshit Raj</h1>
-<h3 align="center">Passionate Developer From VIT, Bhopal</h3>
+<h3 align="center">Curious CSE Student From VIT, Bhopal</h3>
 
 # 💫 About Me:
 B.Tech CSE (AI & ML) | Aspiring AI/ML Engineer | Java, Python, HTML, CSS | Deep Learning | Building Real-World AI Projects
