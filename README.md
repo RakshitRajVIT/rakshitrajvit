@@ -38,19 +38,11 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 <h2>Core Languages</h2>
-<img src="public/animated/icons8-python.gif" alt="python">
-<img src="public/padas.png" width="48" alt="pandas">
-<img src="public/matplotlib.png" width="48px" alt="matplotlib">
-<img src="public/animated/java.gif" alt="java">
+<img src="public/animated/icons8-python.gif" alt="python"><img src="public/padas.png" width="48" alt="pandas"><img src="public/matplotlib.png" width="48px" alt="matplotlib"><img src="public/animated/java.gif" alt="java">
 <br>
-<img width="48px" src="public/animated/html5.gif" alt="html">
-<img src="public/animated/css3.gif" width="48px" alt="css">
-<img  src="public/animated/js.gif" alt="js">
-<img width="48px" src="public/animated/react.gif" alt="react">
+<img width="48px" src="public/animated/html5.gif" alt="html"><img src="public/animated/css3.gif" width="48px" alt="css"><img  src="public/animated/js.gif" alt="js"><img width="48px" src="public/animated/react.gif" alt="react">
 <br>
-<img src="public/animated/figma.gif" alt="figma">
-<img src="public/animated/ps.gif" alt="Photoshop">
-<img src="public/animated/github.gif" alt="github">
+<img src="public/animated/figma.gif" alt="figma"><img src="public/animated/ps.gif" alt="Photoshop"><img src="public/animated/github.gif" alt="github">
 
 
 <!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
