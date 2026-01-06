@@ -4,7 +4,7 @@
 </div> -->
 <h1 align="center">Hi👋,  I am <b>Rakshit Raj</b></h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Web+Development;Machine Learning;Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Web+Development;Machine Learning;Artificial+Intelligence" alt="" />
 </div>
 
 <img align="right" width="40%" src="./public/06f21a161921919.63cd7887d0a70.gif" alt="">
