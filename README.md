@@ -36,7 +36,7 @@
 </div>
 <br/>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center"><img src="public/animated/code.gif" width="48px" alt=""> Tech Stack</h1>
 <h3>Core Languages</h3>
 <span>
   <img src="public/animated/icons8-python.gif" alt="python"><img width="48px" src="public/animated/html5.gif" alt="html"><img src="public/animated/css3.gif" width="48px" alt="css"><img  src="public/animated/js.gif" alt="js"><img src="public/animated/java.gif" alt="java">
