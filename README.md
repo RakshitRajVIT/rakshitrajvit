@@ -8,7 +8,7 @@
 </div>
 
 <img align="right" width="40%" src="./public/06f21a161921919.63cd7887d0a70.gif" alt="">
-<h1 align="center">💫 About Me</h1>
+<h1 align="center"><img src="public/animated/aboutme.gif" width="20px" alt=""> About Me</h1>
 <p align="left">I am a FrontEnd Developer and Machine Learning Enthusiast with a huge love for Python, JavaScript, React.js, Java. </p>
  
 - ✨ Student @VIT Bhopal...
@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakshitrajvit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" style="padding-right:20px;" />
 </p>
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center"><img src="public/animated/connect.gif" width="20px"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
 <a href="mailto:rakshitraj2323@gmail.com" target="_blank">
@@ -36,7 +36,7 @@
 </div>
 <br/>
 
-<h1 align="center"><img src="public/animated/code.gif" width="48px" alt=""> Tech Stack</h1>
+<h1 align="center"><img src="public/animated/code.gif" width="20x" alt=""> Tech Stack</h1>
 <h3>Core Languages</h3>
 <span>
   <img src="public/animated/icons8-python.gif" alt="python"><img width="48px" src="public/animated/html5.gif" alt="html"><img src="public/animated/css3.gif" width="48px" alt="css"><img  src="public/animated/js.gif" alt="js"><img src="public/animated/java.gif" alt="java">
@@ -79,7 +79,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center"><img src="public/animated/tophies.png" alt=""> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs <img src="public/animated/tophies.png" alt=""></h2>
 <p align="center">
   <a href="https://github.com/rakshitrajvit">
     <picture>
@@ -90,7 +90,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"><img src="public/animated/stats.gif" width="20"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="public/animated/stats.gif" width="20" alt=""></h2>
 
 <table width="100%">
   <tr>
