@@ -37,18 +37,34 @@
 <br/>
 
 <h1 align="center">💻 Tech Stack</h1>
-<h2>Core Languages</h2>
+<h3>Core Languages</h3>
 <span>
-  <img src="public/animated/icons8-python.gif" alt="python"><img src="public/padas.png" width="48" alt="pandas"><img src="public/matplotlib.png" width="48px" alt="matplotlib"><img src="public/animated/java.gif" alt="java">
+  <img src="public/animated/icons8-python.gif" alt="python"><img width="48px" src="public/animated/html5.gif" alt="html"><img src="public/animated/css3.gif" width="48px" alt="css"><img  src="public/animated/js.gif" alt="js"><img src="public/animated/java.gif" alt="java">
 </span>
   <br>
+  <h3>Frameworks</h3>
   <span>
-  <img width="48px" src="public/animated/html5.gif" alt="html"><img src="public/animated/css3.gif" width="48px" alt="css"><img  src="public/animated/js.gif" alt="js"><img width="48px" src="public/animated/react.gif" alt="react">
+  <img src="public/padas.png" width="48" alt="pandas"><img src="public/matplotlib.png" width="48px" alt="matplotlib"><img width="48px" src="public/animated/react.gif" alt="react"><img src="skills/redux.png" alt=""><img src="skills/tailwind.png" width="48"><img src="skills/three.png" width="48px" alt="">
+  
   </span>
 <br>
 <span>
-
+  <h3>Tools and Softwares</h3>
   <img src="public/animated/figma.gif" alt="figma"><img src="public/animated/ps.gif" alt="Photoshop"><img src="public/animated/github.gif" alt="github">
+  <img src="skills/git.png" alt="">
+  <img src="skills/vite.png" width="48px" alt="">
+  <img src="skills/vs.png" width="48px" alt="">
+  <img src="skills/postman.png" width="48px" alt="">
+  <img src="skills/markdown.png" width="48px" alt="">
+  <img src="skills/mongo.png" width="48px" alt="">
+  <img src="skills/canva.png" width="48px" alt="">
+  <!-- <img src="skills/framer.png" width="40px"> -->
+  
+</span>
+<span>
+  <h3>Deployment Tools</h3>
+  <img src="skills/netlify.png" width="48px" alt="">
+  <img src="skills/vercel.png" width="48px" alt="">
 </span>
 
 
@@ -108,7 +124,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/rakshitrajvit">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rakshitrajvit&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=rakshitrajvit&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
