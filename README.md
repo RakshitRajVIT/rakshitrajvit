@@ -76,7 +76,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rakshitrajvit/rakshitrajvit/output/snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="center"><img src="public/animated/tophies.png" alt=""> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs <img src="public/animated/tophies.png" alt=""></h2>
